@@ -1,36 +1,37 @@
 # Hi 👋, I'm Arham Sohail
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Dart+Learner;WordPress+Developer;Future+App+Developer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Android+App+Developer;Firebase+Learner;C%2B%2B+Programmer&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Doing Bachelor's from Virtual University (BBIT)
-* 📱 Learning Flutter & Dart (App Development)
-* 🌐 1 Year Experience in WordPress
-* 💻 Interested in Mobile App Development
-* 🚀 Goal: Become a Professional App Developer
+* 🎓 Doing Bachelor's (BBIT) from Virtual University
+* 📱 Flutter Developer (Dart)
+* ⚡ Building Android Apps using Android Studio
+* 🔥 Working with Firebase
+* 💻 Strong interest in Mobile App Development
 
 ---
 
 ## 🌐 Connect with Me
 
 <p>
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=google-chrome"></a>
 </p>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=dart,cpp" />
 </p>
 
 ### 📱 App Development
@@ -39,28 +40,22 @@
   <img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
-### 🌐 Web Development
+### 🔥 Backend / Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=wordpress,html,css" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 ### 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-### 💻 IDEs
+### 💻 IDE
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio" />
-</p>
-
-### 🖥️ Operating Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode" />
 </p>
 
 ---
