@@ -62,16 +62,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamS123" />
-</p>
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArhamS123&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📌 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamS123" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamS123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
