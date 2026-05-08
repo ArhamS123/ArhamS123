@@ -63,7 +63,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArhamS123&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArhamS123&show_icons=true&hide_border=true" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArhamS123&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📌 Top Languages
