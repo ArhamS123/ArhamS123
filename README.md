@@ -1,7 +1,7 @@
 # Hi 👋, I'm Arham Sohail
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Native+App+Developer;Firebase+Learner;C%2B%2B+Programmer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Dart Programmer;Native+App+Developer;Firebase+Learner;C%2B%2B+Programmer&center=true&width=500&height=50">
 </p>
 
 ---
